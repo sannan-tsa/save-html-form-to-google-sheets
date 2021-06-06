@@ -1,4 +1,4 @@
-# form-to-google-sheets
+# Save-HTML-Form-to-Google-Sheets
 In this system you can save the form data to Google Sheets by Pure Coding
 
 #### How to create an HTML form that stores the submitted form data in Google Sheets using plain 'ol JavaScript (ES6), [Google Apps Script](https://developers.google.com/apps-script/), [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [FormData](https://developer.mozilla.org/en-US/docs/Web/API/FormData).
