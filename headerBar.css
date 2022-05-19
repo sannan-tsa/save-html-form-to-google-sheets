@@ -1,0 +1,17 @@
+.HeaderBar {
+  margin-right: 10%;
+  margin-left: 10%;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.HeaderTitle {
+  color: brown;
+  text-decoration: solid;
+}
+
+.CartShow {
+  display: flex;
+  justify-content: space-between ;
+}

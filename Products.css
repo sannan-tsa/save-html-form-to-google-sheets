@@ -1,0 +1,29 @@
+.Products {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.ProductsDetails {
+  justify-content: space-between;
+  display: flex;
+}
+.ProductsDetailsData {
+  justify-content: space-between;
+  display: flex;
+  /* text-align: center; */
+}
+
+.CartAlign {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.CartShow {
+  display: block;
+}
+
+.ButtonClick {
+  background-color: #008CBA;
+}
